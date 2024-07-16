@@ -15,7 +15,7 @@ console.log(`Hello my name is ${name} and repocount is ${repocount}`)
 //This is the modedrn way to use the string in java
 
 
-const gamename = new String('    aashu')
+const gamename = new String('aashu')
 
 console.log(typeof gamename)
 

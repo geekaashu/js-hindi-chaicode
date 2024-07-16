@@ -80,7 +80,7 @@ console.log (typeof account)
 
 console.log (typeof id)
 
-.log (typeof value)
+console.log (typeof value)
 
 console.log (typeof value1)
 
